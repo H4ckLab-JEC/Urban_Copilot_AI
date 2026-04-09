@@ -1,0 +1,120 @@
+[
+  {
+    "id": 1,
+    "type": "Bloqueo",
+    "description": "Cierre vial por manifestaci\u00f3n de transportistas en la zona de acceso al metro.",
+    "time": "Hace 5 minutos",
+    "timestamp": "2026-04-09T01:39:00Z",
+    "lat": 19.416334085596525,
+    "lng": -99.07473572701159,
+    "system": "Metro",
+    "station": "Pantitl\u00e1n"
+  },
+  {
+    "id": 2,
+    "type": "Accidente",
+    "description": "Choque ligero entre particular y unidad de transporte en el carril confinado.",
+    "time": "Hace 12 minutos",
+    "timestamp": "2026-04-09T01:32:00Z",
+    "lat": 19.432899100304862,
+    "lng": -99.15871450973137,
+    "system": "Metrob\u00fas",
+    "station": "Reforma"
+  },
+  {
+    "id": 3,
+    "type": "Falla T\u00e9cnica",
+    "description": "Presencia de humo en el cuarto vag\u00f3n, desalojo de tren en proceso.",
+    "time": "Hace 20 minutos",
+    "timestamp": "2026-04-09T01:24:00Z",
+    "lat": 19.432501910975944,
+    "lng": -99.13225107327767,
+    "system": "Metro",
+    "station": "Z\u00f3calo/Tenochtitlan"
+  },
+  {
+    "id": 4,
+    "type": "Obras",
+    "description": "Trabajos de mantenimiento preventivo en las escaleras el\u00e9ctricas principales.",
+    "time": "Hace 45 minutos",
+    "timestamp": "2026-04-09T00:59:00Z",
+    "lat": 19.40251380233993,
+    "lng": -99.18763652631694,
+    "system": "Metro",
+    "station": "Tacubaya"
+  },
+  {
+    "id": 5,
+    "type": "Manifestaci\u00f3n",
+    "description": "Grupo de vecinos bloqueando parcialmente el acceso a la l\u00ednea 7.",
+    "time": "Hace 1 hora",
+    "timestamp": "2026-04-09T00:44:00Z",
+    "lat": 19.42609435056917,
+    "lng": -99.19420066103766,
+    "system": "Metrob\u00fas",
+    "station": "Auditorio"
+  },
+  {
+    "id": 6,
+    "type": "Accidente",
+    "description": "Persona ajena a la v\u00eda captada en t\u00faneles, corte de corriente preventivo.",
+    "time": "Hace 2 horas",
+    "timestamp": "2025-10-10T02:00:00Z",
+    "lat": 19.324353482894324,
+    "lng": -99.17393845558945,
+    "system": "Metro",
+    "station": "Universidad"
+  },
+  {
+    "id": "90a5b40e-e5c8-48e9-af12-07ba9207e797",
+    "category": "Bloqueo",
+    "location": "Metro Mixcoac",
+    "system": "Metro",
+    "station": "Mixcoac",
+    "description": "No hay avance de los vagones porque hay algo que esta en la via",
+    "latitude": 19.37625650166226,
+    "longitude": -99.18758241553665,
+    "timestamp": "2026-04-09T02:19:30.317097",
+    "date": "2026-04-09",
+    "time": "02:19:30"
+  },
+  {
+    "id": "2bc09a44-7668-4980-9449-d394bb020a94",
+    "category": "Manifestaci\u00f3n",
+    "location": "Metro Observatorio",
+    "system": "Metro",
+    "station": "Observatorio",
+    "description": "Manifestaci\u00f3n por falta de agua",
+    "latitude": 19.398282375699324,
+    "longitude": -99.20040474604608,
+    "timestamp": "2026-04-09T02:37:25.944491",
+    "date": "2026-04-09",
+    "time": "02:37:25"
+  },
+  {
+    "id": "739532d0-8791-4766-9bc7-28be3428093d",
+    "category": "Accidente",
+    "location": "Metro Barranca del Muerto",
+    "system": "Metro",
+    "station": "Barranca del Muerto",
+    "description": "No hay flujo de vagones por un problema en las vias",
+    "latitude": 19.361501563286584,
+    "longitude": -99.18926370689458,
+    "timestamp": "2026-04-09T02:50:55.301590",
+    "date": "2026-04-09",
+    "time": "02:50:55"
+  },
+  {
+    "id": "5acb224d-09f8-4dcf-8e4e-0bdf37689196",
+    "category": "Accidente",
+    "location": "Metrob\u00fas Doctor G\u00e1lvez",
+    "system": "Metrob\u00fas",
+    "station": "Doctor G\u00e1lvez",
+    "description": "Hay un choque entre transportistas de carga pesada y no hay flujo del metrob\u00fas",
+    "latitude": 19.340707214064032,
+    "longitude": -99.1900369636448,
+    "timestamp": "2026-04-09T03:51:00.583258",
+    "date": "2026-04-09",
+    "time": "03:51:00"
+  }
+]
