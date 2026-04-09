@@ -1,5 +1,5 @@
 # Fase 1: Imagen ligera de Python
-FROM python:3.11-slim
+FROM python:3.10-slim
 
 # Evitar generación de archivos .pyc y asegurar logs en tiempo real
 ENV PYTHONDONTWRITEBYTECODE=1
